@@ -1,6 +1,6 @@
 # 🤖 08 — AI Prompts for Travel Growth
 
-Prompt AI viết riêng cho travel vertical — không phải prompt marketing chung chung rồi adapt.
+Prompt AI viết riêng cho travel vertical
 
 ## 📄 Files
 
