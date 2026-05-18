@@ -1,0 +1,1 @@
+../../07-ai-prompts/SKILL.md

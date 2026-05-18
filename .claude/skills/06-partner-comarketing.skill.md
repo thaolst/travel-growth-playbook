@@ -1,0 +1,1 @@
+../../06-partner-comarketing/SKILL.md
