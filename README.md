@@ -16,8 +16,6 @@ Repo này là tập hợp framework thực chiến cho growth marketing trong tr
 
 📖 [Benchmarks & Industry Data](./BENCHMARKS.md) · 📋 [Changelog](./CHANGELOG.md) · 🔗 [AI Tools](https://github.com/thaolst/travel-ai-tools)
 
----
-
 ## 🤖 AI Tools — Dùng thử ngay
 
 Framework trong repo này đã được đưa vào hai công cụ AI miễn phí. Không cần đọc hết tài liệu — dùng thẳng.
@@ -28,8 +26,6 @@ Framework trong repo này đã được đưa vào hai công cụ AI miễn phí
 | 🔬 [Retention Cohort Diagnose](https://thaolst.github.io/travel-ai-tools/retention-diagnose.html) | Mô tả cohort → Risk level + root cause + 90-day playbook |
 
 Cần Anthropic API key. Không lưu data. Chạy hoàn toàn trong browser. Không có API key thì dùng prompt chain backup có sẵn trong mỗi tool.
-
----
 
 ## 📊 Benchmarks & Industry Data
 
@@ -45,8 +41,6 @@ Trích nhanh:
 | Avg bookings/user/year | 2-3 | 2.5-4 |
 
 > Dùng các số này làm baseline để calibrate, không phải truth tuyệt đối. Số thực tế phụ thuộc vào platform, segment, và thị trường cụ thể.
-
----
 
 ## 📋 Mục lục & Nội dung
 
@@ -207,8 +201,6 @@ Mỗi prompt có cấu trúc fill-in (thay bracket bằng context cụ thể). W
 **Dùng Claude Code:** `/prompts`
 </details>
 
----
-
 ## 🧠 Claude Code Skills
 
 Repo này có thể dùng trực tiếp trong Claude Code:
@@ -234,8 +226,6 @@ Sau đó dùng lệnh:
 
 Hoặc copy prompt chain từ mỗi `SKILL.md` dùng trong Claude web / ChatGPT.
 
----
-
 ## 📦 Release & Versioning
 
 Current: **v1.0.0** (see [CHANGELOG.md](./CHANGELOG.md))
@@ -248,8 +238,6 @@ Framework được cập nhật theo biến động thị trường travel. Rele
 
 Theo dõi [releases](https://github.com/thaolst/travel-growth-playbook/releases) để biết cập nhật mới nhất.
 
----
-
 ## 👤 Tác giả
 
 Growth Marketing Manager với kinh nghiệm launch và scale travel platform tại Việt Nam, covering airline, bus, train, hotel, và experience verticals.
@@ -259,8 +247,6 @@ Growth Marketing Manager với kinh nghiệm launch và scale travel platform t�
 ## 🤝 Đóng góp
 
 Làm trong travel marketing và có insight muốn thêm vào? Mở PR hoặc raise issue.
-
----
 
 # 🌏 Travel Growth Playbook
 
