@@ -1,4 +1,4 @@
-# 🌏 Travel Growth Playbook
+# Travel Growth Playbook
 
 Growth marketing trong travel có những đặc thù mà framework từ e-commerce hay SaaS không cover được.
 
@@ -16,18 +16,18 @@ Repo này là tập hợp framework thực chiến cho growth marketing trong tr
 
 📖 [Benchmarks & Industry Data](./BENCHMARKS.md) · 📋 [Changelog](./CHANGELOG.md) · 🔗 [AI Tools](https://github.com/thaolst/travel-ai-tools)
 
-## 🤖 AI Tools — Dùng thử ngay
+## AI Tools — Dùng thử ngay
 
 Framework trong repo này đã được đưa vào hai công cụ AI miễn phí. Không cần đọc hết tài liệu — dùng thẳng.
 
 | Tool | Làm gì |
 |---|---|
-| 🧭 [Campaign Brief Generator](https://thaolst.github.io/travel-ai-tools/campaign-brief-generator.html) | Chọn segment + vertical + mùa + goal → Full brief trong 2 phút |
-| 🔬 [Retention Cohort Diagnose](https://thaolst.github.io/travel-ai-tools/retention-diagnose.html) | Mô tả cohort → Risk level + root cause + 90-day playbook |
+| [Campaign Brief Generator](https://thaolst.github.io/travel-ai-tools/campaign-brief-generator.html) | Chọn segment + vertical + mùa + goal → Full brief trong 2 phút |
+| [Retention Cohort Diagnose](https://thaolst.github.io/travel-ai-tools/retention-diagnose.html) | Mô tả cohort → Risk level + root cause + 90-day playbook |
 
 Cần Anthropic API key. Không lưu data. Chạy hoàn toàn trong browser. Không có API key thì dùng prompt chain backup có sẵn trong mỗi tool.
 
-## 📊 Benchmarks & Industry Data
+## Benchmarks & Industry Data
 
 Xem số liệu tham khảo tại **[BENCHMARKS.md](./BENCHMARKS.md)** — retention rate, CAC ước tính, promotion performance, seasonal demand index, conversion funnel benchmarks.
 
@@ -42,7 +42,7 @@ Trích nhanh:
 
 > Dùng các số này làm baseline để calibrate, không phải truth tuyệt đối. Số thực tế phụ thuộc vào platform, segment, và thị trường cụ thể.
 
-## 📋 Mục lục & Nội dung
+## Mục lục & Nội dung
 
 Mỗi folder là một module độc lập. Click để xem preview nội dung bên trong.
 
@@ -201,7 +201,7 @@ Mỗi prompt có cấu trúc fill-in (thay bracket bằng context cụ thể). W
 **Dùng Claude Code:** `/prompts`
 </details>
 
-## 🧠 Claude Code Skills
+## Claude Code Skills
 
 Repo này có thể dùng trực tiếp trong Claude Code:
 
@@ -226,7 +226,7 @@ Sau đó dùng lệnh:
 
 Hoặc copy prompt chain từ mỗi `SKILL.md` dùng trong Claude web / ChatGPT.
 
-## 📦 Release & Versioning
+## Release & Versioning
 
 Current: **v1.0.0** (see [CHANGELOG.md](./CHANGELOG.md))
 
@@ -238,17 +238,17 @@ Framework được cập nhật theo biến động thị trường travel. Rele
 
 Theo dõi [releases](https://github.com/thaolst/travel-growth-playbook/releases) để biết cập nhật mới nhất.
 
-## 👤 Tác giả
+## Tác giả
 
-Growth Marketing Manager với kinh nghiệm launch và scale travel platform tại Việt Nam, covering airline, bus, train, hotel, và experience verticals.
+Growth Marketing Manager tại MoMo (Vietnam fintech). Trước đó build và scale travel platform tại Việt Nam, covering airline, bus, train, hotel, và experience verticals.
 
-🔗 [Facebook](https://www.facebook.com/LeSongTienThao) · [LinkedIn](https://linkedin.com/in/thaolst) · [X](https://x.com/thaolst)
+🔗 [LinkedIn](https://linkedin.com/in/thaolst) · [X](https://x.com/thaolst) · [GitHub](https://github.com/thaolst)
 
-## 🤝 Đóng góp
+## Đóng góp
 
 Làm trong travel marketing và có insight muốn thêm vào? Mở PR hoặc raise issue.
 
-# 🌏 Travel Growth Playbook
+# Travel Growth Playbook
 
 Travel growth has specific dynamics that e-commerce or SaaS frameworks don't cover.
 
@@ -258,7 +258,7 @@ This repo is a collection of practical growth marketing frameworks for travel, c
 
 📖 [Benchmarks & Industry Data](./BENCHMARKS.md) · 📋 [Changelog](./CHANGELOG.md) · 🔗 [AI Tools](https://github.com/thaolst/travel-ai-tools)
 
-## 🤖 AI Tools — Try Them Now
+## AI Tools — Try Them Now
 
 The frameworks in this repo power two free AI tools. Use them immediately — no need to read through all the documentation.
 
@@ -269,7 +269,7 @@ The frameworks in this repo power two free AI tools. Use them immediately — no
 
 Requires an Anthropic API key. No data stored. Runs entirely in your browser. No API key? Use the prompt chain backup included in each tool.
 
-## 📊 Benchmarks & Industry Data
+## Benchmarks & Industry Data
 
 See **[BENCHMARKS.md](./BENCHMARKS.md)** for retention rates, CAC estimates, promotion performance, seasonal demand index, and conversion funnel data.
 
@@ -284,7 +284,7 @@ Quick reference:
 
 > Use these as baselines for calibration, not absolute truth. Actual numbers depend on platform, segment, and market.
 
-## 📋 Table of Contents & Module Previews
+## Table of Contents & Module Previews
 
 Each folder is a self-contained module. The table below links to the full content. Expand for previews of what's inside.
 
@@ -443,7 +443,7 @@ Each prompt has fill-in structure (replace brackets with your context). Works on
 **Use with Claude Code:** `/prompts`
 </details>
 
-## 🧠 Claude Code Skills
+## Claude Code Skills
 
 This repo works directly in Claude Code:
 
@@ -467,7 +467,7 @@ Available commands:
 
 Or copy the prompt chain from each `SKILL.md` to use in Claude web / ChatGPT.
 
-## 📦 Release & Versioning
+## Release & Versioning
 
 Current: **v1.0.0** (see [CHANGELOG.md](./CHANGELOG.md))
 
@@ -479,12 +479,14 @@ Framework is updated as the travel market evolves. Release notes cover:
 
 Follow [releases](https://github.com/thaolst/travel-growth-playbook/releases) for the latest updates.
 
-## 👤 Author
+## Author
 
-Growth Marketing Manager with experience launching and scaling a multi-modal travel platform in Vietnam, covering airline, bus, train, hotel, and experience verticals. Building at the intersection of **Growth Marketing × AI**.
+Growth Marketing Manager at MoMo (Vietnam fintech). Previously built and scaled a multi-modal travel platform in Vietnam, covering airline, bus, train, hotel, and experience verticals.
 
-🔗 [Facebook](https://www.facebook.com/LeSongTienThao) · [LinkedIn](https://linkedin.com/in/thaolst) · [X](https://x.com/thaolst)
+Other repos: [growth-mcp](https://github.com/thaolst/growth-mcp) (MCP server for growth marketing, on PyPI) · [ai-growth-prompts](https://github.com/thaolst/ai-growth-prompts) · [ai-growth-agents-for-marketers](https://github.com/thaolst/ai-growth-agents-for-marketers)
 
-## 🤝 Contributing
+🔗 [LinkedIn](https://linkedin.com/in/thaolst) · [X](https://x.com/thaolst) · [GitHub](https://github.com/thaolst)
+
+## Contributing
 
 Work in travel marketing and have insights to add? Open a PR or raise an issue.
